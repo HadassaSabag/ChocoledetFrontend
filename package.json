@@ -12,6 +12,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "axios": "^1.7.4",
+    "pretier": "^0.0.1",
     "react": "^18.3.1",
     "react-country-region-selector": "^3.6.1",
     "react-credit-cards-2": "^1.0.2",
@@ -31,6 +32,7 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
+    "prettier": "^3.0.0-alpha.6",
     "vite": "^5.4.1"
   }
 }
