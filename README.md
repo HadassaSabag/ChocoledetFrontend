@@ -1,8 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+ברוכים הבאים ל-**Chocoledet Frontend**!</br>
+זהו צד הלקוח (Client-Side) של חנות האונליין למוצרי אמהות "Chocoledet", המבטיח חווית משתמש חלקה ואינטואיטיבית.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📝 אודות הפרויקט
+
+ה-Frontend של Chocoledet נבנה באמצעות **React עם Redux**, ומספק ממשק משתמש מלא, רספונסיבי וקל לשימוש.</br>
+הפרויקט עוצב במיוחד עבור אימהות טריות, עם דגש על נגישות ועיצוב אופטימלי, ומאפשר ניווט קל בקטלוג המוצרים,</br>
+ניהול הזמנות בחשבון אישי, ותהליך צ'ק-אאוט מאובטח.
+
+### 🚀 תכונות עיקריות
+
+* **קטלוג מוצרים עשיר**: תצוגת מוצרים מפורטת עם אפשרויות סינון וחיפוש.
+* **חשבון אישי**: אזור למשתמשים לניהול הזמנות קודמות, עדכון פרטים אישיים והעדפות.
+* **עגלת קניות**: ניהול פריטים בעגלה ועדכון כמויות.
+* **תהליך צ'ק-אאוט מאובטח**: שלבים ברורים וידידותיים למשתמש להשלמת רכישה.
+* **עיצוב רספונסיבי**: מותאם לצפייה אופטימלית במגוון מכשירים (מחשבים נייחים, טאבלטים, סמארטפונים).
+* **ניהול מצב עם Redux**: ניהול מצב גלובלי של האפליקציה בצורה יעילה וצפויה.
+
+### 🛠️ טכנולוגיות
+
+* **React**
+* **Redux**
+* **HTML5**
+* **CSS** 
+* **JavaScript (ES6+)**
+
+### 🌐 האתר 
+
+רוצים לראות את אתר החנות בפעולה? מוזמנים לבקר בכתובת:
+[https://chocoledet.netlify.app/](https://chocoledet.netlify.app/)
+
+**הערה:** הקישור לעיל מוביל לאתר ה-**Frontend** הפרוס ב-Netlify. ה-Backend פועל בשרת נפרד ומספק את הנתונים לאתר זה.
